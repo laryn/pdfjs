@@ -4,15 +4,14 @@ PDF.js
 PDF.js project enables you to display PDF files in a web reader, using
 [Mozilla's PDF.js library](https://mozilla.github.io/pdf.js).
 
-Example: https://mozilla.github.io/pdf.js/web/viewer.html
+[See an example](https://mozilla.github.io/pdf.js/web/viewer.html).
 
 It provides a file field formatter, with basic configuration.
 
 Installation
 ------------
 
-- Install this module using the official Backdrop CMS instructions at
-  https://backdropcms.org/guide/modules
+- Install this module using the [official Backdrop CMS instructions](https://backdropcms.org/guide/modules).
 
 - Use the `PDF.js` field formatter on any file field, in the *Manage Display*
   page of any content type.
@@ -20,14 +19,12 @@ Installation
 Documentation
 -------------
 
-Upstream PDF.js documentation is available here:
-http://mozilla.github.io/pdf.js/
+Upstream [PDF.js documentation is available here](http://mozilla.github.io/pdf.js/).
 
 Issues
 ------
 
-Bugs and Feature requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/pdfjs/issues
+Bugs and Feature requests should be reported in [the Issue Queue](https://github.com/backdrop-contrib/pdfjs/issues).
 
 Current Maintainers
 -------------------
